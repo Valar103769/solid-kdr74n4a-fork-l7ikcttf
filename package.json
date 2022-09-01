@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/valar103769.solid-kdr74n4a-fork-l7ikcttf",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve CQL2iYeJecAUC7AVuW7Q --open"
+  }
+}
